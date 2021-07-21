@@ -45,8 +45,6 @@
     "react-dropzone": "^10.2.1"
   },
   "peerDependencies": {
-    "@material-ui/core": "^4.0.0",
-    "@material-ui/icons": "^4.0.0",
     "prop-types": "^15.7.2",
     "react": ">= 16.8",
     "react-dom": ">= 16.8"
